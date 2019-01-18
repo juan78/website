@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://janke.gitlab.com/"
+baseurl = "https://frosty-lamarr-0b9b62.netlify.com/"
 
 # Title of your site
 title = "Jürgen Anke"
@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Jürgen Anke"
-  role = "Professor of Software Engineering and Information Systems"
+  role = "Professor of Information Systems"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -66,8 +66,7 @@ enableGitInfo = false
   email = "test@example.org"
   address = "Raum 222, Gustav-Freytag-Str. 43-45, 04277 Leipzig, Germany"
   office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
+  Wednesday 15:00 to 16:00<br>
   Otherwise email to book an appointment
   """
   phone = "888 888 88 88"
@@ -97,10 +96,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "51.037511"
+  longitude = "13.735142"
   zoom = 15
 
   # SITE SETUP
@@ -132,7 +131,7 @@ enableGitInfo = false
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
   reading_time = true
