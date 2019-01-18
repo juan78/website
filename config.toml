@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://janke.gitlab.com/"
 
 # Title of your site
-title = "Academic"
+title = "Jürgen Anke"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; Jürgen Anke 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -52,19 +52,19 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smithson"
-  role = "Professor of Artificial Intelligence"
+  name = "Jürgen Anke"
+  role = "Professor of Software Engineering and Information Systems"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Hochschule für Telekommunikation Leipzig", url = "http://www.hft-leipzig.de/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "Raum 222, Gustav-Freytag-Str. 43-45, 04277 Leipzig, Germany"
   office_hours = """
   Monday 10:00 to 13:00<br>
   Wednesday 09:00 to 10:00<br>
@@ -107,7 +107,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "ocean"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -122,7 +122,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "juergenanke"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -268,14 +268,14 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/JuergenAnke"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.co.uk/citations?user=40chZXMAAAAJ"
 
-  [[params.social]]
+   [[params.social]]
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/gcushen"
@@ -305,20 +305,20 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+#[[menu.main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
