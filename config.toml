@@ -13,7 +13,7 @@ title = "Jürgen Anke"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Jürgen Anke 2018"
+copyright = "&copy; Jürgen Anke 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -29,9 +29,9 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -53,26 +53,27 @@ enableGitInfo = false
 
   # Your details.
   name = "Jürgen Anke"
-  role = "Professor of Information Systems"
+  role = "Professor of Software Engineering and Information Systems"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Hochschule für Telekommunikation Leipzig", url = "http://www.hft-leipzig.de/" } ]
+  organizations = [ { name = "HTW Dresden", url = "http://www.htw-dresden.de/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "PB_2017.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Raum 222, Gustav-Freytag-Str. 43-45, 04277 Leipzig, Germany"
+  email = "juergen.anke@htw-dresden.de"
+  #email = "juergen (dot) anke (at) htw-dresden (dot) de"
+  address = "Raum Z 349b, Friedrich-List-Platz 1, 01069 Dresden, Germany"
   office_hours = """
-  Wednesday 15:00 to 16:00<br>
-  Otherwise email to book an appointment
+  Dienstag 15-16 Uhr<br>
+  (Bitte vorab per Email anmelden!)
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  phone = "0351 462-3846"
+  #skype = "echo123"
+  #telegram = ""
+  #keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -96,10 +97,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 2
+  map = 0
   map_api_key = ""
-  latitude = "51.312817" #"51.037511"
-  longitude = "12.375621" #"13.735142"
+  latitude = "51.037511"
+  longitude = "13.735142"
   zoom = 15
 
   # SITE SETUP
@@ -300,13 +301,13 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "Start"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Publikationen"
+  url = "#publications"
   weight = 2
 
 #[[menu.main]]
@@ -314,10 +315,15 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projekte"
+#  url = "#projects"
+#  weight = 4
+
+  [[menu.main]]
+    name = "Lehre"
+    url = "#teaching"
+    weight = 5
 
 #[[menu.main]]
 #  name = "Tutorials"
@@ -325,7 +331,7 @@ enableGitInfo = false
 #  weight = 5
 
 [[menu.main]]
-  name = "Contact"
+  name = "Kontakt"
   url = "#contact"
   weight = 6
 
@@ -364,16 +370,59 @@ enableGitInfo = false
 
 # Configure the English version of the website.
 [languages.en]
-  languageCode = "en-us"
+  languageCode = "en"
+    weight = 2
+    contentDir = "content/en"
+
+    [[languages.en.menu.main]]
+      name = "Home"
+      url = "#about"
+      weight = 1
+
+
+    [[languages.en.menu.main]]
+      name = "Publications"
+      url = "#publications"
+      weight = 2
+
+
+      #[[menu.main]]
+      #  name = "Posts"
+      #  url = "#posts"
+      #  weight = 3
+
+      #[[languages.en.menu.main]]
+      #  name = "Projects"
+      #  url = "#projects"
+      #  weight = 4
+
+      #[[menu.main]]
+      #  name = "Tutorials"
+      #  url = "/tutorial/"
+      #  weight = 5
+
+      [[languages.en.menu.main]]
+        name = "Teaching"
+        url = "#teaching"
+        weight = 5
+
+      [[languages.en.menu.main]]
+        name = "Contact"
+        url = "#contact"
+        weight = 6
+
+
 
 # Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
-#  title = "Chinese website title..."
-#  [languages.zh.params]
-#    name = "Your name in Chinese..."
-#    role = "Your role in Chinese..."
+[languages.de]
+  languageCode = "de"
+    weight = 1
+    contentDir = "content/de"
+  #title = "Deutsche Version"
+  [languages.de.params]
+    name = "Jürgen Anke"
+    role = "Professor für Softwaretechnologie und Informationssysteme"
+    url = "#about"
 #  [[languages.zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
-#    weight = 1
