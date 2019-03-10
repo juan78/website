@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://frosty-lamarr-0b9b62.netlify.com/"
+baseurl = "https://janke.netlify.com/"
 
 # Title of your site
 title = "Jürgen Anke"
@@ -67,7 +67,7 @@ enableGitInfo = false
   #email = "juergen (dot) anke (at) htw-dresden (dot) de"
   address = "Raum Z 349b, Friedrich-List-Platz 1, 01069 Dresden, Germany"
   office_hours = """
-  Dienstag 15-16 Uhr<br>
+  Donnerstag 14-15 Uhr<br>
   (Bitte vorab per Email anmelden!)
   """
   phone = "0351 462-3846"
