@@ -65,11 +65,9 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "juergen.anke@htw-dresden.de"
   #email = "juergen (dot) anke (at) htw-dresden (dot) de"
-  address = "Raum Z 349b, Friedrich-List-Platz 1, 01069 Dresden, Germany"
-  office_hours = """
-  Donnerstag 14-15 Uhr<br>
-  (Bitte vorab per Email anmelden!)
-  """
+  address = "Z 349b, Friedrich-List-Platz 1, 01069 Dresden, Germany"
+  #office_hours = """
+  #"""
   phone = "0351 462-3846"
   #skype = "echo123"
   #telegram = ""
