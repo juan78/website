@@ -18,9 +18,11 @@ Derzeit lehre ich an der HTW Dresden die folgenden Module:
 
 ### Sommersemester
 * I151: Software Engineering II (Bachelor)
+* I917: Business Information Systems (Bachelor)
 
 ### Wintersemester
 * I150: Software Engineering I (Bachelor)
+* I925: Requirements Engineering (Bachelor)
 * I444: Innovative web-basierte betriebliche Informationssysteme / E-Business (Master)
 
 In der Vergangenheit habe ich darüber hinaus Fächer wie Grundlagen der Wirtschaftsinformatik, Forschungsmethoden der Wirtschaftsinformatik sowie Betriebliche Anwendungssysteme gelehrt.

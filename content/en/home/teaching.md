@@ -18,9 +18,11 @@ Currently, I teach the following subjects at HTW Dresden:
 
 ### Summer semester
 * Software Engineering II
+* Business Information Systems
 
 ### Winter semester
 * Software Engineering I
+* Requirements Engineering
 * Innovative web-based business information systems (E-Business)
 
 Previous teaching included subjects such as foundations of business information systems, research methods in IS, information management and enterprise software.
