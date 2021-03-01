@@ -9,9 +9,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Smart Service Systems",
-    "Enterprise Software",
-    "Business Model Innovation"
+  "Smart Services",
+  "Service Systems Engineering",
+  "Digital Identities",
+  "Service Ecosystems",
+  "Business Model Innovation"
   ]
 
 # List your qualifications (such as academic degrees).

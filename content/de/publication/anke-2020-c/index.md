@@ -1,4 +1,4 @@
-+++
++++ selected = true
 title = "It Takes More than Two to Tango: Inter-organizational Collaboration in Smart Service Systems Engineering"
 date = 2020-01-01
 authors = ["Jürgen Anke", "Jens Pöppelbuß", "Rainer Alt"]
@@ -9,4 +9,3 @@ publication = "*Schmalenbach Business Review*"
 tags = ["inter-organizational projects;Roles;Service ecosystems;Service Systems Engineering;service-dominant logic;Smart Service Systems"]
 doi = "10.1007/s41464-020-00101-2"
 +++
-
