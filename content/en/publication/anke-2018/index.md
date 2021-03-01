@@ -1,11 +1,11 @@
 +++
-title = "Design-integrated financial assessment of smart services"
+title = "Lernen aus Anwendung: Transfer-orientierte Entwicklung von Methoden für das Smart Service Engineering"
 date = 2018-01-01
-authors = ["Jürgen Anke"]
-publication_types = ["2"]
-abstract = "Abstract The emergence of data-driven services in the Internet of Things provides manufacturers of technical products the opportunity to become providers of services, which use data as primary input. The development of such smart services, however, is characterized by high complexity and uncertainty. To identify service ideas which are worth to pursue further, the potential financial impact is an important criterion. While the importance of a business case is acknowledged in service engineering, there is currently no concrete method that is integrated with the early design phases of smart services. Therefore, we propose a tool-based method for the design-integrated financial assessment of smart services. We use a design science research approach to develop a meta-model, which is implemented in a web-based tool. The experimental evaluation shows that the proposed tool provides benefits, especially in structuring the task for project teams. Therefore, it appears to be beneficial to provide interdisciplinary teams a tool-based support for the design and evaluation of smart services."
+authors = ["Jürgen Anke", "Kyrill Meyer", "Rainer Alt", "Julia Holze", "Eva Kahlert"]
+publication_types = ["6"]
+abstract = "Die Durchdringung von Informationstechnik (IT) in Dienstleistungen sowie die zunehmende Verbreitung von Technologie für die Erfassung, Speicherung und Verarbeitung großer Datenmengen führt zur Entstehung von digitalen Dienstleistungssystemen. Diese erlauben die zeit- und ortsunabhängige Bereitstellung sowie einen hohen Automatisierungsgrad von Dienstleistungen. Verbunden mit diesen Potenzialen ist eine hohe Komplexität dieser Systeme. Dieser Beitrag beschreibt die Herausforderungen beim Smart Service Engineering und stellt das Konzept für ein Smart Service Lab vor, welches die Entwicklung der notwendigen Methoden mittels praktischer Anwendung nach dem Co-Innovation Ansatz vorantreiben soll.Die Durchdringung von Informationstechnik (IT) in Dienstleistungen sowie die zunehmende Verbreitung von Technologie für die Erfassung, Speicherung und Verarbeitung großer Datenmengen führt zur Entstehung von digitalen Dienstleistungssystemen. Diese erlauben die zeit- und ortsunabhängige Bereitstellung sowie einen hohen Automatisierungsgrad von Dienstleistungen. Verbunden mit diesen Potenzialen ist eine hohe Komplexität dieser Systeme. Dieser Beitrag beschreibt die Herausforderungen beim Smart Service Engineering und stellt das Konzept für ein Smart Service Lab vor, welches die Entwicklung der notwendigen Methoden mittels praktischer Anwendung nach dem Co-Innovation Ansatz vorantreiben soll."
 featured = false
-publication = "*Electronic Markets*"
-doi = "10.1007/s12525-018-0300-y"
+publication = "*Service Engineering*"
+doi = "10.1007/978-3-658-20905-6\textunderscore 7"
 +++
 

@@ -27,4 +27,4 @@ weight = 5
 
 +++
 # Kurzvorstellung
-Jürgen Anke ist Professor für Wirtschaftsinformatik mit Schwerpunkten Softwaretechnologie und betriebliche Informationssysteme. Seine Forschungsarbeiten sind vor allem konstruktionsorientiert und befassen sich mit Methoden und Modellen zur Entwicklung von Smart Service Systemen. Er ist ebenfalls an Hochschuldidaktik und projektbasierter Lehre interessiert.
+Jürgen Anke ist Professor für Wirtschaftsinformatik mit Schwerpunkten Softwaretechnologie und betriebliche Informationssysteme. Seine Forschung konzentriert sich auf Digitale Dienstleistungssysteme, insbesondere Prozesse für Serviceinnovation und die Nutzung digitaler Identitäten / Self-sovereign Identity in digitalen Dienstleistungen. Er ist ebenfalls an Hochschuldidaktik und projektbasierter Lehre im Kontext von Software Engineering interessiert.

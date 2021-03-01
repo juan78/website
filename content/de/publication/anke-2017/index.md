@@ -6,6 +6,7 @@ publication_types = ["1"]
 abstract = "Product-Service Systems (PSS) enable new value to customers compared to traditional selling of goods, e.g. through new business models such as Performancebased contracting (PBC) and Pay-per-use (PPU). This turns the manufacturer into a service provider, which has to perform maintenance, repair and operation (MRO) tasks for the products provided in a PSS. Therefore, the service provider must organize the logistics of the equipment, spare parts, and consumables in a timely manner. In this paper, we evaluate the impact of Internet of Things (IoT) technology for the support of logistics-related tasks in PSS. More specifically, the required tasks with relevance of logistics are identified using case studies and existing literature. For each task, we derive trigger events and how they can be discovered automatically. Based on this, we propose a generalized architecture for IoT-enabled logistics processes in PSS, which can be used to better understand the operation of such systems and support their design."
 featured = false
 publication = "*Hamburg International Conference of Logistics*"
+tags = ["Cyber-Physical Systems;Internet of things;performance-based contracting;Product-Service Systems"]
 url_pdf = "https://tore.tuhh.de/handle/11420/1477"
 +++
 

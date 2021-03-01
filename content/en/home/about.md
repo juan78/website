@@ -29,4 +29,4 @@ weight = 5
 
 # About me
 
-Jürgen Anke is professor of information systems, especially enterprise software and software engineering. His research is mainly design science oriented and focusses on methods and models for the engineering of digital service systems ("Smart Services") based on the Internet of Things and cyber-physical systems. He is also interested in higher education didactics and project-based teaching.
+Jürgen Anke is professor of software engineering and information systems. His current research focusses on digital service systems, particularly on the service innovation process and the use of digital identities / self-sovereign identities in digital services. He is also interested in higher education didactics and project-based teaching, especially in software engineering education.

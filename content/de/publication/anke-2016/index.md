@@ -1,12 +1,10 @@
 +++
-title = "IT-gestützte Methodik zum Management von Datenschutzanforderungen"
+title = "Nutzenpotenziale von Smart Parking"
 date = 2016-01-01
-authors = ["Jürgen Anke", "Wilhelm Berning", "Johannes Schmidt", "Christian Zinke"]
-publication_types = ["2"]
-abstract = "Die datenschutzkonforme Handhabung von Daten ist für Unternehmen mit komplexen IT-Landschaften eine große Herausforderung. Datenschutzverstöße stellen rechtliche und finanzielle Risiken dar, insbesondere durch die umsatzabhängigen Bußgelder, die in der neuen EU-Datenschutzgrundverordnung (EU-DSGVO) vorgesehen sind. Die Sicherstellung der Datenschutzkonformität in betrieblichen Anwendungssystemen ist bislang aufwändig und nur in geringem Umfang automatisiert. In diesem Beitrag wird ein Lösungsansatz vorgestellt, der die durchgängige Dokumentation, Durchsetzung und Kontrolle von Datenschutzanforderungen für betriebliche Anwendungssysteme gewährleisten soll, um eine nachhaltige Datenschutzkonformität zu erreichen. Dazu schlagen wir eine Methodik vor, die organisatorische Prozesse sowie technische Komponenten miteinander verbindet, um die Verwaltung von Datenschutzanforderungen stärker in das unternehmensweite IT-Management zu integrieren."
+authors = ["Jürgen Anke", "Julia Scholle"]
+publication_types = ["1"]
+abstract = "Intelligentes Parken – „Smart Parking“ – verspricht eine effiziente Organisation des ruhenden Verkehrs und bildet eine konkrete Applikation im Rahmen des Konzepts Smart City. Die vielfältigen Auswirkungen des Einsatzes analysiert dieser Beitrag. Anhand der Ziele verschiedener Akteure und der Funktionen von Smart Parking Systemen wird der Nutzen abgeleitet und mit Erfahrungen von Pilotinstallationen exemplarisch quantifiziert."
 featured = false
-publication = "*HMD Praxis der Wirtschaftsinformatik*"
-tags = ["Datenschutz"]
-doi = "10.1365/s40702-016-0283-0"
+publication = "*Digitale Transformation: Methoden, Kompetenzen und Technologien für die Verwaltung*"
 +++
 

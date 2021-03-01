@@ -5,6 +5,6 @@ authors = ["Andreas Zolnowski", "Jürgen Anke", "Jan Gudat"]
 publication_types = ["1"]
 abstract = "The emergence of data-driven business models calls for their systematic design and evaluation. In this paper, we focus on a first step towards a Cost-Benefit-Analysis of data-driven business models. Within data-driven business models, data act as enabler for the development of innovative services. However, to justify internal funding of new services, an assessment of the financial impact for the service at hand is often required. We approach this by identifying drivers of cost and benefit based on the Service Business Model Canvases of twenty cases. Based on the results, all drivers and their associated models for quantification were consolidated into a single meta-model. With this, we provide a basis for the economic assessment of service ideas and their refinement during the design process."
 featured = false
-publication = "*13th International Conference on Wirtschaftsinformatik*"
+publication = "*Proceeedings of the 13th International Conference on Wirtschaftsinformatik*"
 +++
 
