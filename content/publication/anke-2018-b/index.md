@@ -1,11 +1,12 @@
 +++
-title = "Lernen aus Anwendung: Transfer-orientierte Entwicklung von Methoden für das Smart Service Engineering"
+title = "Modelling of a Smart Service for Consumables Replenishment"
 date = 2018-01-01
-authors = ["Jürgen Anke", "Kyrill Meyer", "Rainer Alt", "Julia Holze", "Eva Kahlert"]
-publication_types = ["6"]
-abstract = "Zusammenfassung Die Durchdringung von Informationstechnik (IT) in Dienstleistungen sowie die zunehmende Verbreitung von Technologie für die Erfassung, Speicherung und Verarbeitung großer Datenmengen führt zur Entstehung von digitalen Dienstleistungssystemen. Diese erlauben die zeit- und ortsunabhängige Bereitstellung sowie einen hohen Automatisierungsgrad von Dienstleistungen. Verbunden mit diesen Potenzialen ist eine hohe Komplexität dieser Systeme. Dieser Beitrag beschreibt die Herausforderungen beim Smart Service Engineering und stellt das Konzept für ein Smart Service Lab vor, welches die Entwicklung der notwendigen Methoden mittels praktischer Anwendung nach dem Co-Innovation Ansatz vorantreiben soll."
+authors = ["Jürgen Anke", "Stefan Wellsandt", "Klaus-Dieter Thoben"]
+publication_types = ["2"]
+abstract = "Smart services are an approach for the IT-supported provision of services based on networked products. They enable new relationships between manufacturers and end users, as well as the establishment of new value-creation networks. To gain benefits from these potentials, service providers face the challenges of designing and managing smart services. This is mainly due to the complexity of the underlying cyber-physical system (CPS) as well as the individual life cycles of components and third-party services it consists of. Additionally, a number of actors and their tasks, various tangible and intangible benefits, as well as flows of material, information and money need to be considered during the planning and provisioning of the service. In this paper, we investigate the potential of modelling smart services with the Lifecycle Modeling Language (LML). To this end, we analyse the fulfillment of information need of different stakeholders based on a consumable material replenishment service for 3D printers."
 featured = false
-publication = "*Service Engineering*"
-doi = "10.1007/978-3-658-20905-6\textunderscore 7"
+publication = "*Enterprise Modelling and Information Systems Architectures (EMISAJ)*"
+tags = ["Internet of things;Life Cycle Modelling;LML;Smart Services;Supply Chain Management"]
+doi = "10.18417/EMISA.13.17"
 +++
 

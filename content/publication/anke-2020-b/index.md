@@ -1,0 +1,12 @@
++++
+title = "Joining Forces: Understanding Organizational Roles in Inter-organizational Smart Service Systems Engineering"
+date = 2020-01-01
+authors = ["Jürgen Anke", "Jens Poeppelbuss", "Rainer Alt"]
+publication_types = ["6"]
+abstract = "The combination of technologies like the Internet of Things, big data analytics, and cloud computing allow service systems to become “smart”. To design and operate smart service systems, a multitude of skills, knowledge, services, and components are required. These are unlikely to be found within a single organization, and, hence, inter-organizational projects are formed for smart service systems engineering. In our study, we explored the interorganizational setups of 14 projects by interviewing experts who were involved in smart service systems engineering. Our analysis resulted in a conceptualization of 13 roles that we further clustered into three main groups. With this systematization of roles, we contribute to academia by advancing our understanding of the inter-organizational dimension of smart service systems engineering. Our insights are helpful for practitioners in setting up and managing interorganizational projects for their digital service innovation initiatives.The combination of technologies like the Internet of Things, big data analytics, and cloud computing allow service systems to become “smart”. To design and operate smart service systems, a multitude of skills, knowledge, services, and components are required. These are unlikely to be found within a single organization, and, hence, inter-organizational projects are formed for smart service systems engineering. In our study, we explored the interorganizational setups of 14 projects by interviewing experts who were involved in smart service systems engineering. Our analysis resulted in a conceptualization of 13 roles that we further clustered into three main groups. With this systematization of roles, we contribute to academia by advancing our understanding of the inter-organizational dimension of smart service systems engineering. Our insights are helpful for practitioners in setting up and managing interorganizational projects for their digital service innovation initiatives."
+featured = false
+publication = "*WI2020 Zentrale Tracks*"
+tags = ["inter-organizational projects;Service Engineering;Smart Service;Smart Service Systems;stakeholder integration"]
+doi = "10.30844/wi\textunderscore 2020\textunderscore j1-anke"
++++
+

@@ -7,7 +7,6 @@ abstract = "Der Automobilsektor steht vor einem tiefgreifenden Wandel. Fahrzeuge
 featured = false
 publication = "*HMD Praxis der Wirtschaftsinformatik*"
 tags = ["Connected Car;Datengetriebene Dienstleistungen;Datenschutz;Usage-based insurance"]
-url_pdf = "http://dx.doi.org/10.1365/s40702-018-0432-8"
 doi = "10.1365/s40702-018-0432-8"
 +++
 

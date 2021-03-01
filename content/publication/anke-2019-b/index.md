@@ -1,11 +1,11 @@
 +++
-title = "Integration digitaler Sprach­assistenten in den Kundenservice am Beispiel der Stadtwerke Leipzig"
+title = "UML in der Hochschullehre: Eine kritische Reflexion"
 date = 2019-01-01
-authors = ["Jürgen Anke", "Uwe Fischer", "René Lemke"]
+authors = ["Jürgen Anke", "Stefan Bente"]
 publication_types = ["1"]
-abstract = "Die Nutzung von digitalen Sprachassistenten wie Amazon Alexa oder Google Assistant nimmt in privaten Haushalten stark zu. Ihre Popularität verdanken sie der Art der Interaktion zwischen Menschen und Maschine, die deutlich natürlicher ist als bei einer Website oder App. Dank ihrer großen Verbreitung und der einfachen Erweiterbarkeit, liegt es nahe, Sprachassistenten als zusätzlichen Kanal für den Kundenservice in kommunalen Unternehmen einzusetzen. Dabei sind eine Reihe von technischen Herausforderungen wie Authentifizierung des Nutzers, Integration mit Backend­-Systemen sowie datenschutzkonforme Verarbeitung zu adressieren. Weiterhin stellt sich die Frage nach der Auswahl der Kundenanliegen, die für die Unterstützung durch Sprachassistenten geeigneten sind. Dieser Beitrag zeigt anhand des Beispiels der Stadtwerke Leipzig, wie die Integration von Sprachassistenten in den Kundenservice technisch und fachlich durchgeführt wurde. Damit soll ein Beitrag zur Entwicklung von Gestaltungswissen zur Einbindung von Sprach­assistenten in kommunalen Betrieben und öffentlichen Verwaltungen geleistet werden."
+abstract = "Trotz ihrer hohen Bekanntheit und Verbreitung ist die Unified Modelling Language (UML) 20 Jahre nach der Vorstellung ihrer ersten Version in der Softwaretechnik nicht unumstritten. Ein wesentlicher Grund ist ihre unklare Nutzung in der Praxis die u.a. durch Ausdifferenzierung von Softwareproduktarten, agilen Entwicklungsansätzen sowie Microservices als Architekturstil mit reduzierter Komplexität beeinflusst wird. Diese Trends befördern eine Abkehr von klassischen Top-Down-Ansätzen mit sequenziellem Vorgehen, das umfangreiche Spezifikationen der Anforderungen und des Entwurfs erfordert. Für die Lehre (insbesondere auf Bachelorniveau) stellt sich daher die Frage, ob wir UML überhaupt noch brauchen und wenn ja, wofür und in welchem Umfang. Ziel dieses Beitrags ist es, empirische Belege zur Relevanz der UML zusammenzutragen und daraus Schlussfolgerungen für mögliche Kompetenzziele in der Softwaretechnikausbildung zu ziehen. Unser Ziel ist es, eine aktuelle Sicht auf die praktische Relevanz der UML zu liefern und damit die Diskussion über die Ausgestaltung der Lehre im Fach Softwaretechnik anzuregen."
 featured = false
-publication = "*Digitalisierung von Staat und Verwaltung*"
-url_pdf = "https://dl.gi.de/handle/20.500.12116/20514"
+publication = "*Software Engineering im Unterricht der Hochschulen*"
+url_pdf = "http://ceur-ws.org/Vol-2358/paper-01.pdf"
 +++
 
