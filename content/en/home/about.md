@@ -18,6 +18,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Postdoctoral Qualification (Habilitation) in Information Systems"
+  institution = "Leipzig University"
+  year = 2023
+
+[[education.courses]]
   course = "PhD in Computer Science"
   institution = "TU Dresden"
   year = 2008

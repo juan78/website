@@ -18,6 +18,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Dr.-Ing. habil. (Wirtschaftsinformatik)"
+  institution = "Universität Leipzig  "
+  year = 2023
+
+[[education.courses]]
   course = "Dr.-Ing. (Informatik)"
   institution = "TU Dresden"
   year = 2008
